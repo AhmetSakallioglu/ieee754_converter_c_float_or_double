@@ -376,6 +376,7 @@ int main()
         printf("Hatali bir tur secimi tusladiniz. ");
     }
     
-    
+    printf("\n");
+    system("pause");
     return 0;
 }
